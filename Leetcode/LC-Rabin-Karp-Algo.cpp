@@ -41,6 +41,8 @@ private:
             else
             {
                 hashCode = (hashCode - source[i - m + 1] * power) % BASE;
+                if (hashCode < 0)
+                    hashCode += BASE;
             }
         }
 
@@ -62,7 +64,7 @@ public:
         }
 
         if (source == b)
-            return 1;
+            return count;
         if (rabin_karp(source, b) != -1)
             return count;
         if (rabin_karp(source + a, b) != -1)
