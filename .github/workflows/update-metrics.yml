@@ -19,15 +19,6 @@ jobs:
         run: |
           echo "## 📊 Problem-Solving Metrics" > README.md
           echo "" >> README.md
-          for dir in */; do
-            count=$(find "$dir" -type f | wc -l)
-            echo "🔹 **${dir%%/}**: $count problems solved" >> README.md
-          done
-
-      - name: Commit and Push Changes
-        run: |
-          echo "## 📊 Problem-Solving Metrics" > README.md
-          echo "" >> README.md
 
           # Check if the "solved" folder exists
           if [ -d "solved" ]; then
@@ -41,3 +32,11 @@ jobs:
           fi
 
           echo "" >> README.md
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add README.md
+          git commit -m "Updated problem-solving metrics"
+          git push
