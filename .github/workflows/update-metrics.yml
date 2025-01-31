@@ -21,8 +21,8 @@ jobs:
           echo "" >> README.md
 
           # Check if the "solved" folder exists
-          if [ -d "solved" ]; then
-          for dir in solved/*/; do
+          if [ -d "Solved" ]; then
+          for dir in Solved/*/; do
               count=$(find "$dir" -type f | wc -l)
               folder_name=$(basename "$dir")
               echo "- **${folder_name}**: $count problems solved" >> README.md
