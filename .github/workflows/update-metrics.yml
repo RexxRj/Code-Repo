@@ -20,8 +20,8 @@ jobs:
           echo "## 📊 Problem-Solving Metrics" > README.md
           echo "" >> README.md
 
-          if [ -d "solved" ]; then
-            for dir in solved/*/; do
+          if [ -d "Solved" ]; then
+            for dir in oSlved/*/; do
               if [ -d "$dir" ]; then
                 count=$(find "$dir" -type f | wc -l)
                 folder_name=$(basename "$dir")
