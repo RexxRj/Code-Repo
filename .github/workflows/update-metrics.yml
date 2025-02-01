@@ -24,7 +24,7 @@ jobs:
           if [ -d "Solved" ]; then
           for dir in Solved/*/; do
               count=$(find "$dir" -type f | wc -l)
-              folder_name=$(basename "$dir")
+              folder_name=$(basename "$dir" | tr ' ' '_')
               # echo "- **${folder_name}**: $count problems solved" >> README.md
               echo "![${folder_name}](https://img.shields.io/badge/${folder_name}-$count-blue)" >> README.md
           done
