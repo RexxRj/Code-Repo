@@ -32,7 +32,7 @@ jobs:
           # Check if the "solved" folder exists
           if [ -d "Solved" ]; then
             counter=1
-            echo "| S.No. | Problem | Solution |" >> README.md
+            echo "| S.No. | Topic | Problems Solved |" >> README.md
             echo "| ------- | ------- | -------- |" >> README.md
             for dir in Solved/*/; do
                 count=$(find "$dir" -type f | wc -l)
@@ -54,17 +54,19 @@ jobs:
           echo "" >> README.md
 
           if [ -d "Solved" ]; then
+            counter=1
             for dir in Solved/*/; do
                 folder_name=$(basename "$dir")
                 git_folder=$(echo "$folder_name" | tr ' ' '-')
                 echo "### ${folder_name}" >> README.md
                 echo "" >> README.md
-                echo "| Problem | Solution |" >> README.md
-                echo "| ------- | -------- |" >> README.md
+                echo "| S.No. | Problems | Solutions |" >> README.md
+                echo "| ------- | ------- | -------- |" >> README.md
                 
                 for file in "$dir"/*; do
                     prob_name=$(basename "$file")
-                    echo "| ${prob_name} | [Solution](${gitlink}/${git_folder}/${prob_name}) |" >> README.md
+                    echo "| ${counter} | ${prob_name} | [Solution](${gitlink}/${git_folder}/${prob_name}) |" >> README.md
+                    ((counter++))
                 done
             done
           else
