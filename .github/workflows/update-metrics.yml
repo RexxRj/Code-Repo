@@ -29,7 +29,7 @@ jobs:
 
           # Check if the "solved" folder exists
           if [ -d "Solved" ]; then
-            counter = 1
+            counter=1
             for dir in Solved/*/; do
                 count=$(find "$dir" -type f | wc -l)
                 folder_name=$(basename "$dir")
@@ -64,7 +64,7 @@ jobs:
           echo "" >> README.md
           echo "## Unsolved Problems" >> README.md
           if [ -d "Unsolved" ]; then
-            counter = 1
+            counter=1
             for dir in Unsolved/*/; do
                 folder_name=$(basename "$dir")
 
