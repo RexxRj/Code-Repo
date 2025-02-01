@@ -71,6 +71,10 @@ jobs:
                 echo "$counter. [$dir](${gitlink}/${folder_name})" >> README.md
                 echo "" >> README.md
                 ((counter++))
+            done
+          else
+            echo "No unsolved problems found." >> README.md
+          fi
 
       - name: Commit and Push Changes
         run: |
