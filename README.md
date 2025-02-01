@@ -238,5 +238,7 @@ A dedicated repository to track my problem-solving journey across various platfo
 
 3. [LC-Minimum-Cost-to-Make-Arrays-Identical.cpp](https://github.com/RexxRj/Code-Repo/tree/main/Unsolved//LC-Minimum-Cost-to-Make-Arrays-Identical.cpp)
 
-4. [LC-Two-Sum-BST-Optimised.cpp](https://github.com/RexxRj/Code-Repo/tree/main/Unsolved//LC-Two-Sum-BST-Optimised.cpp)
+4. [LC-Reschedule-Meetings-for-Maximum-Free-Time-I.cpp](https://github.com/RexxRj/Code-Repo/tree/main/Unsolved//LC-Reschedule-Meetings-for-Maximum-Free-Time-I.cpp)
+
+5. [LC-Two-Sum-BST-Optimised.cpp](https://github.com/RexxRj/Code-Repo/tree/main/Unsolved//LC-Two-Sum-BST-Optimised.cpp)
 
