@@ -57,7 +57,7 @@ jobs:
             counter=1
             for dir in Solved/*/; do
                 folder_name=$(basename "$dir")
-                git_folder=$(echo "$folder_name" | tr ' ' '%20')
+                git_folder=$(echo "$folder_name" | sed 's/ /%20/g')
                 echo "### ${folder_name}" >> README.md
                 echo "" >> README.md
                 echo "| S.No. | Problems | Solutions |" >> README.md
