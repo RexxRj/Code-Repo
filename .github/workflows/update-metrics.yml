@@ -51,10 +51,12 @@ jobs:
                 echo "### ${folder_name}" >> README.md
                 echo "" >> README.md
                 echo "| Problem | Solution |" >> README.md
+                echo "| ------- | -------- |" >> README.md
                 
                 for file in "$dir"/*; do
                     prob_name=$(basename "$file")
                     echo "| ${prob_name} | [Solution](${gitlink}/${prob_name}) |" >> README.md
+                    echo "" >> README.md
                 done
             done
           else
@@ -68,7 +70,7 @@ jobs:
             for dir in Unsolved/*/; do
                 folder_name=$(basename "$dir")
 
-                echo "$counter. [$dir](${gitlink}/${folder_name})" >> README.md
+                echo "$counter. [$folder_name](${gitlink}/${folder_name})" >> README.md
                 echo "" >> README.md
                 ((counter++))
             done
