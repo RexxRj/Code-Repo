@@ -43,37 +43,37 @@ A dedicated repository to track my problem-solving journey across various platfo
 
 | S.No. | Problems | Solutions |
 | ------- | ------- | -------- |
-| 16 | CodingNinjas-Tree-Traversals-All-in-1-Pass.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Binary%Tree/CodingNinjas-Tree-Traversals-All-in-1-Pass.cpp) |
-| 17 | CodingNinjas_Morris_Preoreder_Traversal_Binary_Tree.c++ | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Binary%Tree/CodingNinjas_Morris_Preoreder_Traversal_Binary_Tree.c++) |
-| 18 | Diameter-of-Binary-Tree.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Binary%Tree/Diameter-of-Binary-Tree.cpp) |
-| 19 | GFG-BST-Predecessor-Successor.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Binary%Tree/GFG-BST-Predecessor-Successor.cpp) |
-| 20 | GFG-Bottom-View-of-Binary-Tree-Level-Order-Traversal.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Binary%Tree/GFG-Bottom-View-of-Binary-Tree-Level-Order-Traversal.cpp) |
-| 21 | LC-Construct-BST-From-Preorder-Traversal.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Binary%Tree/LC-Construct-BST-From-Preorder-Traversal.cpp) |
-| 22 | LC-Construct-Binary-Tree-From-Preorder-Inorder-Traversal-Optimal-Solution.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Binary%Tree/LC-Construct-Binary-Tree-From-Preorder-Inorder-Traversal-Optimal-Solution.cpp) |
-| 23 | LC-Construct-Binary-Tree-From-Preorder-Inorder-Traversal.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Binary%Tree/LC-Construct-Binary-Tree-From-Preorder-Inorder-Traversal.cpp) |
-| 24 | LC-Convert-Sorted-Array-To-BST.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Binary%Tree/LC-Convert-Sorted-Array-To-BST.cpp) |
-| 25 | LC-Flatten-Binary-Tree-To-Linked-List-Iteration.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Binary%Tree/LC-Flatten-Binary-Tree-To-Linked-List-Iteration.cpp) |
-| 26 | LC-Flatten-Binary-Tree-To-Linked-List-Morris-Traversal.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Binary%Tree/LC-Flatten-Binary-Tree-To-Linked-List-Morris-Traversal.cpp) |
-| 27 | LC-Flatten-Binary-Tree-To-Linked-List-Recursion.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Binary%Tree/LC-Flatten-Binary-Tree-To-Linked-List-Recursion.cpp) |
-| 28 | LC-LCA-Binary-Tree.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Binary%Tree/LC-LCA-Binary-Tree.cpp) |
-| 29 | LC-Max-Width-Binary-Tree.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Binary%Tree/LC-Max-Width-Binary-Tree.cpp) |
-| 30 | LC-Maximum-Sum-BST-In-Binary-Tree.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Binary%Tree/LC-Maximum-Sum-BST-In-Binary-Tree.cpp) |
-| 31 | LC-Morris-Inorder-Traversal-Binary-Tree.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Binary%Tree/LC-Morris-Inorder-Traversal-Binary-Tree.cpp) |
-| 32 | LC-Serialize-Deserialize-Binary-Tree.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Binary%Tree/LC-Serialize-Deserialize-Binary-Tree.cpp) |
-| 33 | LC-Two-Sum-IV-BST.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Binary%Tree/LC-Two-Sum-IV-BST.cpp) |
-| 34 | LC-Two-Sum-IV-Class-BST-Iterator.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Binary%Tree/LC-Two-Sum-IV-Class-BST-Iterator.cpp) |
-| 35 | LC-Validate-BST-Optimised.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Binary%Tree/LC-Validate-BST-Optimised.cpp) |
-| 36 | LC-Validate-BST.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Binary%Tree/LC-Validate-BST.cpp) |
-| 37 | LC-Vertical-Order-Traversal-Binary-Tree-Optimised.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Binary%Tree/LC-Vertical-Order-Traversal-Binary-Tree-Optimised.cpp) |
-| 38 | LC-Vertical-Order-Traversal-Binary-Tree.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Binary%Tree/LC-Vertical-Order-Traversal-Binary-Tree.cpp) |
+| 16 | CodingNinjas-Tree-Traversals-All-in-1-Pass.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Binary%20Tree/CodingNinjas-Tree-Traversals-All-in-1-Pass.cpp) |
+| 17 | CodingNinjas_Morris_Preoreder_Traversal_Binary_Tree.c++ | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Binary%20Tree/CodingNinjas_Morris_Preoreder_Traversal_Binary_Tree.c++) |
+| 18 | Diameter-of-Binary-Tree.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Binary%20Tree/Diameter-of-Binary-Tree.cpp) |
+| 19 | GFG-BST-Predecessor-Successor.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Binary%20Tree/GFG-BST-Predecessor-Successor.cpp) |
+| 20 | GFG-Bottom-View-of-Binary-Tree-Level-Order-Traversal.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Binary%20Tree/GFG-Bottom-View-of-Binary-Tree-Level-Order-Traversal.cpp) |
+| 21 | LC-Construct-BST-From-Preorder-Traversal.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Binary%20Tree/LC-Construct-BST-From-Preorder-Traversal.cpp) |
+| 22 | LC-Construct-Binary-Tree-From-Preorder-Inorder-Traversal-Optimal-Solution.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Binary%20Tree/LC-Construct-Binary-Tree-From-Preorder-Inorder-Traversal-Optimal-Solution.cpp) |
+| 23 | LC-Construct-Binary-Tree-From-Preorder-Inorder-Traversal.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Binary%20Tree/LC-Construct-Binary-Tree-From-Preorder-Inorder-Traversal.cpp) |
+| 24 | LC-Convert-Sorted-Array-To-BST.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Binary%20Tree/LC-Convert-Sorted-Array-To-BST.cpp) |
+| 25 | LC-Flatten-Binary-Tree-To-Linked-List-Iteration.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Binary%20Tree/LC-Flatten-Binary-Tree-To-Linked-List-Iteration.cpp) |
+| 26 | LC-Flatten-Binary-Tree-To-Linked-List-Morris-Traversal.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Binary%20Tree/LC-Flatten-Binary-Tree-To-Linked-List-Morris-Traversal.cpp) |
+| 27 | LC-Flatten-Binary-Tree-To-Linked-List-Recursion.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Binary%20Tree/LC-Flatten-Binary-Tree-To-Linked-List-Recursion.cpp) |
+| 28 | LC-LCA-Binary-Tree.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Binary%20Tree/LC-LCA-Binary-Tree.cpp) |
+| 29 | LC-Max-Width-Binary-Tree.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Binary%20Tree/LC-Max-Width-Binary-Tree.cpp) |
+| 30 | LC-Maximum-Sum-BST-In-Binary-Tree.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Binary%20Tree/LC-Maximum-Sum-BST-In-Binary-Tree.cpp) |
+| 31 | LC-Morris-Inorder-Traversal-Binary-Tree.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Binary%20Tree/LC-Morris-Inorder-Traversal-Binary-Tree.cpp) |
+| 32 | LC-Serialize-Deserialize-Binary-Tree.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Binary%20Tree/LC-Serialize-Deserialize-Binary-Tree.cpp) |
+| 33 | LC-Two-Sum-IV-BST.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Binary%20Tree/LC-Two-Sum-IV-BST.cpp) |
+| 34 | LC-Two-Sum-IV-Class-BST-Iterator.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Binary%20Tree/LC-Two-Sum-IV-Class-BST-Iterator.cpp) |
+| 35 | LC-Validate-BST-Optimised.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Binary%20Tree/LC-Validate-BST-Optimised.cpp) |
+| 36 | LC-Validate-BST.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Binary%20Tree/LC-Validate-BST.cpp) |
+| 37 | LC-Vertical-Order-Traversal-Binary-Tree-Optimised.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Binary%20Tree/LC-Vertical-Order-Traversal-Binary-Tree-Optimised.cpp) |
+| 38 | LC-Vertical-Order-Traversal-Binary-Tree.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Binary%20Tree/LC-Vertical-Order-Traversal-Binary-Tree.cpp) |
 ### Bit Manipulation
 
 | S.No. | Problems | Solutions |
 | ------- | ------- | -------- |
-| 39 | GFG-Count-total-set-bits.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Bit%Manipulation/GFG-Count-total-set-bits.cpp) |
-| 40 | GFG-Find-XOR-of-numbers-from-L-to-R.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Bit%Manipulation/GFG-Find-XOR-of-numbers-from-L-to-R.cpp) |
-| 41 | GFG-Swap-two-numbers.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Bit%Manipulation/GFG-Swap-two-numbers.cpp) |
-| 42 | LC-Divide-Two-Integers.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Bit%Manipulation/LC-Divide-Two-Integers.cpp) |
+| 39 | GFG-Count-total-set-bits.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Bit%20Manipulation/GFG-Count-total-set-bits.cpp) |
+| 40 | GFG-Find-XOR-of-numbers-from-L-to-R.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Bit%20Manipulation/GFG-Find-XOR-of-numbers-from-L-to-R.cpp) |
+| 41 | GFG-Swap-two-numbers.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Bit%20Manipulation/GFG-Swap-two-numbers.cpp) |
+| 42 | LC-Divide-Two-Integers.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Bit%20Manipulation/LC-Divide-Two-Integers.cpp) |
 ### DP
 
 | S.No. | Problems | Solutions |
@@ -175,16 +175,16 @@ A dedicated repository to track my problem-solving journey across various platfo
 
 | S.No. | Problems | Solutions |
 | ------- | ------- | -------- |
-| 128 | GFG-Find-length-of-Loop.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Linked%Lists/GFG-Find-length-of-Loop.cpp) |
-| 129 | LC-Delete-the-Middle-Node-of-a-Linked-List.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Linked%Lists/LC-Delete-the-Middle-Node-of-a-Linked-List.cpp) |
-| 130 | LC-Linked-List-Cycle-II.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Linked%Lists/LC-Linked-List-Cycle-II.cpp) |
-| 131 | LC-Odd-Even-Linked-List.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Linked%Lists/LC-Odd-Even-Linked-List.cpp) |
-| 132 | LC-Palindrome-Linked-List.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Linked%Lists/LC-Palindrome-Linked-List.cpp) |
-| 133 | LC-Remove-Nth-Node-From-End-of-List.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Linked%Lists/LC-Remove-Nth-Node-From-End-of-List.cpp) |
-| 134 | LC-Reverse-Linked-List-Iterative.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Linked%Lists/LC-Reverse-Linked-List-Iterative.cpp) |
-| 135 | LC-Reverse-Linked-List-Recursive.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Linked%Lists/LC-Reverse-Linked-List-Recursive.cpp) |
-| 136 | LC-Sort-List-MergeSort.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Linked%Lists/LC-Sort-List-MergeSort.cpp) |
-| 137 | Lc-Sort-List-Brute-Force.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Linked%Lists/Lc-Sort-List-Brute-Force.cpp) |
+| 128 | GFG-Find-length-of-Loop.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Linked%20Lists/GFG-Find-length-of-Loop.cpp) |
+| 129 | LC-Delete-the-Middle-Node-of-a-Linked-List.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Linked%20Lists/LC-Delete-the-Middle-Node-of-a-Linked-List.cpp) |
+| 130 | LC-Linked-List-Cycle-II.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Linked%20Lists/LC-Linked-List-Cycle-II.cpp) |
+| 131 | LC-Odd-Even-Linked-List.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Linked%20Lists/LC-Odd-Even-Linked-List.cpp) |
+| 132 | LC-Palindrome-Linked-List.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Linked%20Lists/LC-Palindrome-Linked-List.cpp) |
+| 133 | LC-Remove-Nth-Node-From-End-of-List.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Linked%20Lists/LC-Remove-Nth-Node-From-End-of-List.cpp) |
+| 134 | LC-Reverse-Linked-List-Iterative.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Linked%20Lists/LC-Reverse-Linked-List-Iterative.cpp) |
+| 135 | LC-Reverse-Linked-List-Recursive.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Linked%20Lists/LC-Reverse-Linked-List-Recursive.cpp) |
+| 136 | LC-Sort-List-MergeSort.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Linked%20Lists/LC-Sort-List-MergeSort.cpp) |
+| 137 | Lc-Sort-List-Brute-Force.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Linked%20Lists/Lc-Sort-List-Brute-Force.cpp) |
 ### Strings
 
 | S.No. | Problems | Solutions |
@@ -215,15 +215,15 @@ A dedicated repository to track my problem-solving journey across various platfo
 
 | S.No. | Problems | Solutions |
 | ------- | ------- | -------- |
-| 156 | GFG-Fruit-Into-Baskets.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Two%Pointers/GFG-Fruit-Into-Baskets.cpp) |
-| 157 | LC-Binary-Subarrays-With-Sum.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Two%Pointers/LC-Binary-Subarrays-With-Sum.cpp) |
-| 158 | LC-Longest-Repeating-Character-Replacement.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Two%Pointers/LC-Longest-Repeating-Character-Replacement.cpp) |
-| 159 | LC-Longest-Substring-Without-Repeating-Characters.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Two%Pointers/LC-Longest-Substring-Without-Repeating-Characters.cpp) |
-| 160 | LC-Max-Consecutive-Ones-III.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Two%Pointers/LC-Max-Consecutive-Ones-III.cpp) |
-| 161 | LC-Maximum-Points-You-Can-Obtain-from-Cards.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Two%Pointers/LC-Maximum-Points-You-Can-Obtain-from-Cards.cpp) |
-| 162 | LC-Minimum-Window-Substring.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Two%Pointers/LC-Minimum-Window-Substring.cpp) |
-| 163 | LC-Number-of-Substrings-Containing-All-Three-Characters-Alternate-Approach.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Two%Pointers/LC-Number-of-Substrings-Containing-All-Three-Characters-Alternate-Approach.cpp) |
-| 164 | LC-Number-of-Substrings-Containing-All-Three-Characters.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Two%Pointers/LC-Number-of-Substrings-Containing-All-Three-Characters.cpp) |
+| 156 | GFG-Fruit-Into-Baskets.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Two%20Pointers/GFG-Fruit-Into-Baskets.cpp) |
+| 157 | LC-Binary-Subarrays-With-Sum.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Two%20Pointers/LC-Binary-Subarrays-With-Sum.cpp) |
+| 158 | LC-Longest-Repeating-Character-Replacement.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Two%20Pointers/LC-Longest-Repeating-Character-Replacement.cpp) |
+| 159 | LC-Longest-Substring-Without-Repeating-Characters.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Two%20Pointers/LC-Longest-Substring-Without-Repeating-Characters.cpp) |
+| 160 | LC-Max-Consecutive-Ones-III.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Two%20Pointers/LC-Max-Consecutive-Ones-III.cpp) |
+| 161 | LC-Maximum-Points-You-Can-Obtain-from-Cards.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Two%20Pointers/LC-Maximum-Points-You-Can-Obtain-from-Cards.cpp) |
+| 162 | LC-Minimum-Window-Substring.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Two%20Pointers/LC-Minimum-Window-Substring.cpp) |
+| 163 | LC-Number-of-Substrings-Containing-All-Three-Characters-Alternate-Approach.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Two%20Pointers/LC-Number-of-Substrings-Containing-All-Three-Characters-Alternate-Approach.cpp) |
+| 164 | LC-Number-of-Substrings-Containing-All-Three-Characters.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Two%20Pointers/LC-Number-of-Substrings-Containing-All-Three-Characters.cpp) |
 ### stack
 
 | S.No. | Problems | Solutions |
