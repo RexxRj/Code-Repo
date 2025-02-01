@@ -23,7 +23,7 @@ jobs:
 
           echo " " >> README.md"
           echo "## LeetCode Stats" >> README.md
-          echo "[![LeetCode Stats](https://leetcard.jacoblin.cool/RexxRj?theme=dark&font=Fira%20Sans&ext=heatmap)](https://leetcode.com/RexxRj)" >> README.md
+          echo "![LeetCode Stats](https://leetcard.jacoblin.cool/RexxRj?theme=dark&font=Fira%20Sans&ext=heatmap)](https://leetcode.com/RexxRj)" >> README.md
           echo " " >> README.md
           echo "## Solved Problems" >> README.md
 
