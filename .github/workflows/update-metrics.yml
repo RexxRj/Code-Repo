@@ -53,7 +53,7 @@ jobs:
                 echo "| Problem | Solution |" >> README.md
                 
                 for file in "$dir"/*; do
-                    prob_name = $(basename "$file")
+                    prob_name=$(basename "$file")
                     echo "| ${prob_name} | [Solution](${gitlink}/${prob_name}) |" >> README.md
                 done
             done
