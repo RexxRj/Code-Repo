@@ -1,13 +1,14 @@
 ## 📊 Problem-Solving Metrics
 
-- **Array**: 15 problems solved
-- **Binary Tree**: 23 problems solved
-- **Bit Manipulation**: 4 problems solved
-- **DP**: 52 problems solved
-- **Graph**: 21 problems solved
-- **Heap**: 12 problems solved
-- **Linked Lists**: 10 problems solved
-- **Strings**: 12 problems solved
-- **Trie**: 6 problems solved
-- **Two Pointers**: 9 problems solved
-- **stack**: 2 problems solved
+![Array](https://img.shields.io/badge/Array-15-blue)
+![Binary Tree](https://img.shields.io/badge/Binary Tree-23-blue)
+![Bit Manipulation](https://img.shields.io/badge/Bit Manipulation-4-blue)
+![DP](https://img.shields.io/badge/DP-52-blue)
+![Graph](https://img.shields.io/badge/Graph-21-blue)
+![Heap](https://img.shields.io/badge/Heap-12-blue)
+![Linked Lists](https://img.shields.io/badge/Linked Lists-10-blue)
+![Strings](https://img.shields.io/badge/Strings-12-blue)
+![Trie](https://img.shields.io/badge/Trie-6-blue)
+![Two Pointers](https://img.shields.io/badge/Two Pointers-9-blue)
+![stack](https://img.shields.io/badge/stack-2-blue)
+
