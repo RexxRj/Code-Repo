@@ -6,28 +6,19 @@ A dedicated repository to track my problem-solving journey across various platfo
 [![LeetCode Stats](https://leetcard.jacoblin.cool/RexxRj?theme=dark&font=Fira%20Sans&ext=heatmap)](https://leetcode.com/RexxRj)
  
 ## Solved Problems
-[1. Array](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Array): 15 problems solved
- 
-[2. Binary Tree](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Binary-Tree): 23 problems solved
- 
-[3. Bit Manipulation](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Bit-Manipulation): 4 problems solved
- 
-[4. DP](https://github.com/RexxRj/Code-Repo/tree/main/Solved//DP): 52 problems solved
- 
-[5. Graph](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Graph): 21 problems solved
- 
-[6. Heap](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Heap): 12 problems solved
- 
-[7. Linked Lists](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Linked-Lists): 10 problems solved
- 
-[8. Strings](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Strings): 12 problems solved
- 
-[9. Trie](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Trie): 6 problems solved
- 
-[10. Two Pointers](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Two-Pointers): 9 problems solved
- 
-[11. stack](https://github.com/RexxRj/Code-Repo/tree/main/Solved//stack): 2 problems solved
- 
+| S.No. | Problem | Solution |
+| ------- | ------- | -------- |
+| 1 | [Array](#Array) | 15 |
+| 3 | [Binary Tree](#Binary-Tree) | 23 |
+| 5 | [Bit Manipulation](#Bit-Manipulation) | 4 |
+| 7 | [DP](#DP) | 52 |
+| 9 | [Graph](#Graph) | 21 |
+| 11 | [Heap](#Heap) | 12 |
+| 13 | [Linked Lists](#Linked-Lists) | 10 |
+| 15 | [Strings](#Strings) | 12 |
+| 17 | [Trie](#Trie) | 6 |
+| 19 | [Two Pointers](#Two-Pointers) | 9 |
+| 21 | [stack](#stack) | 2 |
 
 ### Array
 
