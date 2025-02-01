@@ -43,7 +43,7 @@ jobs:
 
           echo "" >> README.md
 
-          gitlink = "https://github.com/RexxRj/Code-Repo/tree/main/Solved/Array"
+          gitlink="https://github.com/RexxRj/Code-Repo/tree/main/Solved/Array"
 
           if [ -d "Solved" ]; then
             for dir in Solved/*/; do
