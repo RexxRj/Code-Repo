@@ -19,11 +19,11 @@ jobs:
         run: |
           echo "# 🤖 Coding Practice Repository" > README.md
           echo "" >> README.md
-          echo "A dedicated repository to track my problem-solving journey across various platforms. This repository contains solutions to coding problems categorized by topic, along with other code-related projects and learning resources."
+          echo "A dedicated repository to track my problem-solving journey across various platforms. This repository contains solutions to coding problems categorized by topic, along with other code-related projects and learning resources." >> README.md
 
-          echo " " >> README.md"
+          echo "" >> README.md
           echo "## LeetCode Stats" >> README.md
-          echo "![LeetCode Stats](https://leetcard.jacoblin.cool/RexxRj?theme=dark&font=Fira%20Sans&ext=heatmap)](https://leetcode.com/RexxRj)" >> README.md
+          echo '[![LeetCode Stats](https://leetcard.jacoblin.cool/RexxRj?theme=dark&font=Fira%20Sans&ext=heatmap)](https://leetcode.com/RexxRj)' >> README.md
           echo " " >> README.md
           echo "## Solved Problems" >> README.md
 
