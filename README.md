@@ -236,9 +236,11 @@ A dedicated repository to track my problem-solving journey across various platfo
 
 2. [GFG-Job-Sequencing-Problem.cpp](https://github.com/RexxRj/Code-Repo/tree/main/Unsolved//GFG-Job-Sequencing-Problem.cpp)
 
-3. [LC-Minimum-Cost-to-Make-Arrays-Identical.cpp](https://github.com/RexxRj/Code-Repo/tree/main/Unsolved//LC-Minimum-Cost-to-Make-Arrays-Identical.cpp)
+3. [GFG-Print-all-LCS-sequences.cpp](https://github.com/RexxRj/Code-Repo/tree/main/Unsolved//GFG-Print-all-LCS-sequences.cpp)
 
-4. [LC-Reschedule-Meetings-for-Maximum-Free-Time-I.cpp](https://github.com/RexxRj/Code-Repo/tree/main/Unsolved//LC-Reschedule-Meetings-for-Maximum-Free-Time-I.cpp)
+4. [LC-Minimum-Cost-to-Make-Arrays-Identical.cpp](https://github.com/RexxRj/Code-Repo/tree/main/Unsolved//LC-Minimum-Cost-to-Make-Arrays-Identical.cpp)
 
-5. [LC-Two-Sum-BST-Optimised.cpp](https://github.com/RexxRj/Code-Repo/tree/main/Unsolved//LC-Two-Sum-BST-Optimised.cpp)
+5. [LC-Reschedule-Meetings-for-Maximum-Free-Time-I.cpp](https://github.com/RexxRj/Code-Repo/tree/main/Unsolved//LC-Reschedule-Meetings-for-Maximum-Free-Time-I.cpp)
+
+6. [LC-Two-Sum-BST-Optimised.cpp](https://github.com/RexxRj/Code-Repo/tree/main/Unsolved//LC-Two-Sum-BST-Optimised.cpp)
 
