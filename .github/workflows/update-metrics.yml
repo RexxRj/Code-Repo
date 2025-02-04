@@ -23,9 +23,9 @@ jobs:
 
           echo "" >> README.md
           echo "## LeetCode Stats" >> README.md
-          echo '[![LeetCode Stats](https://leetcard.jacoblin.cool/RexxRj?theme=dark&font=Fira%20Sans&ext=heatmap)](https://leetcode.com/RexxRj)' >> README.md
+          echo '📊 [![LeetCode Stats](https://leetcard.jacoblin.cool/RexxRj?theme=dark&font=Fira%20Sans&ext=heatmap)](https://leetcode.com/RexxRj)' >> README.md
           echo " " >> README.md
-          echo "## Solved Problems" >> README.md
+          echo "## ✅ Solved Problems" >> README.md
 
           gitlink="https://github.com/RexxRj/Code-Repo/tree/main/Solved/"
 
@@ -75,7 +75,7 @@ jobs:
 
           gitlink="https://github.com/RexxRj/Code-Repo/tree/main/Unsolved/"
           echo "" >> README.md
-          echo "## Unsolved Problems" >> README.md
+          echo "## ⚔️ Unsolved Problems" >> README.md
           if [ -d "Unsolved" ]; then
             counter=1
             for dir in Unsolved/*; do
