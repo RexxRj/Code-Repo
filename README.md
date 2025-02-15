@@ -244,5 +244,13 @@ A dedicated repository to track my problem-solving journey across various platfo
 
 5. [LC-Reschedule-Meetings-for-Maximum-Free-Time-I.cpp](https://github.com/RexxRj/Code-Repo/tree/main/Unsolved//LC-Reschedule-Meetings-for-Maximum-Free-Time-I.cpp)
 
-6. [LC-Two-Sum-BST-Optimised.cpp](https://github.com/RexxRj/Code-Repo/tree/main/Unsolved//LC-Two-Sum-BST-Optimised.cpp)
+6. [LC-Shortest-Matching-Substring-Memory-Exceeded.cpp](https://github.com/RexxRj/Code-Repo/tree/main/Unsolved//LC-Shortest-Matching-Substring-Memory-Exceeded.cpp)
+
+7. [LC-Shortest-Matching-Substring-Tabulation-Trying.cpp](https://github.com/RexxRj/Code-Repo/tree/main/Unsolved//LC-Shortest-Matching-Substring-Tabulation-Trying.cpp)
+
+8. [LC-Shortest-Matching-Substring-Test-Case-1.txt](https://github.com/RexxRj/Code-Repo/tree/main/Unsolved//LC-Shortest-Matching-Substring-Test-Case-1.txt)
+
+9. [LC-Shortest-Matching-Substring-Test-Case-2.txt](https://github.com/RexxRj/Code-Repo/tree/main/Unsolved//LC-Shortest-Matching-Substring-Test-Case-2.txt)
+
+10. [LC-Two-Sum-BST-Optimised.cpp](https://github.com/RexxRj/Code-Repo/tree/main/Unsolved//LC-Two-Sum-BST-Optimised.cpp)
 
