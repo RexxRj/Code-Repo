@@ -11,7 +11,7 @@ A dedicated repository to track my problem-solving journey across various platfo
 | 1 | [Array](#Array) | 15 |
 | 3 | [Binary Tree](#Binary-Tree) | 23 |
 | 5 | [Bit Manipulation](#Bit-Manipulation) | 4 |
-| 7 | [DP](#DP) | 79 |
+| 7 | [DP](#DP) | 80 |
 | 9 | [Graph](#Graph) | 21 |
 | 11 | [Heap](#Heap) | 12 |
 | 13 | [Linked Lists](#Linked-Lists) | 10 |
@@ -158,130 +158,131 @@ A dedicated repository to track my problem-solving journey across various platfo
 | 119 | LC-Wildcard-Matching.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//DP/LC-Wildcard-Matching.cpp) |
 | 120 | LC-Word-Break-Recursion.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//DP/LC-Word-Break-Recursion.cpp) |
 | 121 | LC-Word-Break-Tabulation.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//DP/LC-Word-Break-Tabulation.cpp) |
+| 122 | Lc-Palindrome-Partitioning-II.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//DP/Lc-Palindrome-Partitioning-II.cpp) |
 ### Graph
 
 | S.No. | Problems | Solutions |
 | ------- | ------- | -------- |
-| 122 | Disjoint-Set-Implementation.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Graph/Disjoint-Set-Implementation.cpp) |
-| 123 | GFG-BFS-Graph.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Graph/GFG-BFS-Graph.cpp) |
-| 124 | GFG-Bellman-Ford-Algorithm.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Graph/GFG-Bellman-Ford-Algorithm.cpp) |
-| 125 | GFG-DFS-Graph.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Graph/GFG-DFS-Graph.cpp) |
-| 126 | GFG-Dijkstra-Algorithm-Priority-Queue.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Graph/GFG-Dijkstra-Algorithm-Priority-Queue.cpp) |
-| 127 | GFG-Dijkstra-Algorithm-Set.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Graph/GFG-Dijkstra-Algorithm-Set.cpp) |
-| 128 | GFG-Floyd-Warshall.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Graph/GFG-Floyd-Warshall.cpp) |
-| 129 | GFG-Minimum-Spanning-Tree-Kruskal's-Algorithm.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Graph/GFG-Minimum-Spanning-Tree-Kruskal's-Algorithm.cpp) |
-| 130 | GFG-Minimum-Spanning-Tree-Prim's-Algorithm.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Graph/GFG-Minimum-Spanning-Tree-Prim's-Algorithm.cpp) |
-| 131 | GFG-Topological-Sort-BFS-Graph-Kahn's-Algorithm.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Graph/GFG-Topological-Sort-BFS-Graph-Kahn's-Algorithm.cpp) |
-| 132 | GFG-Topological-Sort-DFS-Graph.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Graph/GFG-Topological-Sort-DFS-Graph.cpp) |
-| 133 | LC-Clone-Graph.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Graph/LC-Clone-Graph.cpp) |
-| 134 | LC-Course-Schedule-BFS-Graph-Kahn's-Algorithm.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Graph/LC-Course-Schedule-BFS-Graph-Kahn's-Algorithm.cpp) |
-| 135 | LC-Course-Schedule-DFS-Graph.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Graph/LC-Course-Schedule-DFS-Graph.cpp) |
-| 136 | LC-Is-Graph-Bipartite-BFS.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Graph/LC-Is-Graph-Bipartite-BFS.cpp) |
-| 137 | LC-Is-Graph-Bipartite-DFS.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Graph/LC-Is-Graph-Bipartite-DFS.cpp) |
-| 138 | LC-Maximum-Number-of-Non-Overlapping-Substrings-Greedy.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Graph/LC-Maximum-Number-of-Non-Overlapping-Substrings-Greedy.cpp) |
-| 139 | LC-Maximum-Number-of-Non-Overlapping-Substrings-Kosaraju-Algorithm-Simplified.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Graph/LC-Maximum-Number-of-Non-Overlapping-Substrings-Kosaraju-Algorithm-Simplified.cpp) |
-| 140 | LC-Maximum-Number-of-Non-Overlapping-Substrings-Kosaraju-Algorithm.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Graph/LC-Maximum-Number-of-Non-Overlapping-Substrings-Kosaraju-Algorithm.cpp) |
-| 141 | LC-Number-Of-Islands-DFS.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Graph/LC-Number-Of-Islands-DFS.cpp) |
-| 142 | LC-Rotting-Oranges-BFS.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Graph/LC-Rotting-Oranges-BFS.cpp) |
+| 123 | Disjoint-Set-Implementation.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Graph/Disjoint-Set-Implementation.cpp) |
+| 124 | GFG-BFS-Graph.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Graph/GFG-BFS-Graph.cpp) |
+| 125 | GFG-Bellman-Ford-Algorithm.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Graph/GFG-Bellman-Ford-Algorithm.cpp) |
+| 126 | GFG-DFS-Graph.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Graph/GFG-DFS-Graph.cpp) |
+| 127 | GFG-Dijkstra-Algorithm-Priority-Queue.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Graph/GFG-Dijkstra-Algorithm-Priority-Queue.cpp) |
+| 128 | GFG-Dijkstra-Algorithm-Set.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Graph/GFG-Dijkstra-Algorithm-Set.cpp) |
+| 129 | GFG-Floyd-Warshall.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Graph/GFG-Floyd-Warshall.cpp) |
+| 130 | GFG-Minimum-Spanning-Tree-Kruskal's-Algorithm.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Graph/GFG-Minimum-Spanning-Tree-Kruskal's-Algorithm.cpp) |
+| 131 | GFG-Minimum-Spanning-Tree-Prim's-Algorithm.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Graph/GFG-Minimum-Spanning-Tree-Prim's-Algorithm.cpp) |
+| 132 | GFG-Topological-Sort-BFS-Graph-Kahn's-Algorithm.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Graph/GFG-Topological-Sort-BFS-Graph-Kahn's-Algorithm.cpp) |
+| 133 | GFG-Topological-Sort-DFS-Graph.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Graph/GFG-Topological-Sort-DFS-Graph.cpp) |
+| 134 | LC-Clone-Graph.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Graph/LC-Clone-Graph.cpp) |
+| 135 | LC-Course-Schedule-BFS-Graph-Kahn's-Algorithm.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Graph/LC-Course-Schedule-BFS-Graph-Kahn's-Algorithm.cpp) |
+| 136 | LC-Course-Schedule-DFS-Graph.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Graph/LC-Course-Schedule-DFS-Graph.cpp) |
+| 137 | LC-Is-Graph-Bipartite-BFS.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Graph/LC-Is-Graph-Bipartite-BFS.cpp) |
+| 138 | LC-Is-Graph-Bipartite-DFS.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Graph/LC-Is-Graph-Bipartite-DFS.cpp) |
+| 139 | LC-Maximum-Number-of-Non-Overlapping-Substrings-Greedy.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Graph/LC-Maximum-Number-of-Non-Overlapping-Substrings-Greedy.cpp) |
+| 140 | LC-Maximum-Number-of-Non-Overlapping-Substrings-Kosaraju-Algorithm-Simplified.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Graph/LC-Maximum-Number-of-Non-Overlapping-Substrings-Kosaraju-Algorithm-Simplified.cpp) |
+| 141 | LC-Maximum-Number-of-Non-Overlapping-Substrings-Kosaraju-Algorithm.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Graph/LC-Maximum-Number-of-Non-Overlapping-Substrings-Kosaraju-Algorithm.cpp) |
+| 142 | LC-Number-Of-Islands-DFS.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Graph/LC-Number-Of-Islands-DFS.cpp) |
+| 143 | LC-Rotting-Oranges-BFS.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Graph/LC-Rotting-Oranges-BFS.cpp) |
 ### Heap
 
 | S.No. | Problems | Solutions |
 | ------- | ------- | -------- |
-| 143 | CodingNinjas_MinHeap.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Heap/CodingNinjas_MinHeap.cpp) |
-| 144 | GFG-Replace-Elements-By-Its-Rank-In-The-Array.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Heap/GFG-Replace-Elements-By-Its-Rank-In-The-Array.cpp) |
-| 145 | LC-Find-Median-From-Data-Stream-Priority-Queue.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Heap/LC-Find-Median-From-Data-Stream-Priority-Queue.cpp) |
-| 146 | LC-Merge-k-Sorted-Lists.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Heap/LC-Merge-k-Sorted-Lists.cpp) |
-| 147 | LC-Min-Stack-1-stack-Math.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Heap/LC-Min-Stack-1-stack-Math.cpp) |
-| 148 | LC-Min-Stack-2-stacks.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Heap/LC-Min-Stack-2-stacks.cpp) |
-| 149 | LC-Reverse-Words-In-a-String-Stack.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Heap/LC-Reverse-Words-In-a-String-Stack.cpp) |
-| 150 | LC-Sliding-Window-Maximum-Deque.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Heap/LC-Sliding-Window-Maximum-Deque.cpp) |
-| 151 | LC-Sliding-Window-Maximum-Priority-Queue.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Heap/LC-Sliding-Window-Maximum-Priority-Queue.cpp) |
-| 152 | LC-Task-Scheduler-Greedy.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Heap/LC-Task-Scheduler-Greedy.cpp) |
-| 153 | LC-Task-Scheduler.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Heap/LC-Task-Scheduler.cpp) |
-| 154 | LC-median-of-two-sorted-arrays-binary-search.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Heap/LC-median-of-two-sorted-arrays-binary-search.cpp) |
+| 144 | CodingNinjas_MinHeap.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Heap/CodingNinjas_MinHeap.cpp) |
+| 145 | GFG-Replace-Elements-By-Its-Rank-In-The-Array.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Heap/GFG-Replace-Elements-By-Its-Rank-In-The-Array.cpp) |
+| 146 | LC-Find-Median-From-Data-Stream-Priority-Queue.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Heap/LC-Find-Median-From-Data-Stream-Priority-Queue.cpp) |
+| 147 | LC-Merge-k-Sorted-Lists.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Heap/LC-Merge-k-Sorted-Lists.cpp) |
+| 148 | LC-Min-Stack-1-stack-Math.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Heap/LC-Min-Stack-1-stack-Math.cpp) |
+| 149 | LC-Min-Stack-2-stacks.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Heap/LC-Min-Stack-2-stacks.cpp) |
+| 150 | LC-Reverse-Words-In-a-String-Stack.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Heap/LC-Reverse-Words-In-a-String-Stack.cpp) |
+| 151 | LC-Sliding-Window-Maximum-Deque.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Heap/LC-Sliding-Window-Maximum-Deque.cpp) |
+| 152 | LC-Sliding-Window-Maximum-Priority-Queue.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Heap/LC-Sliding-Window-Maximum-Priority-Queue.cpp) |
+| 153 | LC-Task-Scheduler-Greedy.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Heap/LC-Task-Scheduler-Greedy.cpp) |
+| 154 | LC-Task-Scheduler.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Heap/LC-Task-Scheduler.cpp) |
+| 155 | LC-median-of-two-sorted-arrays-binary-search.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Heap/LC-median-of-two-sorted-arrays-binary-search.cpp) |
 ### Linked Lists
 
 | S.No. | Problems | Solutions |
 | ------- | ------- | -------- |
-| 155 | GFG-Find-length-of-Loop.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Linked%20Lists/GFG-Find-length-of-Loop.cpp) |
-| 156 | LC-Delete-the-Middle-Node-of-a-Linked-List.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Linked%20Lists/LC-Delete-the-Middle-Node-of-a-Linked-List.cpp) |
-| 157 | LC-Linked-List-Cycle-II.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Linked%20Lists/LC-Linked-List-Cycle-II.cpp) |
-| 158 | LC-Odd-Even-Linked-List.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Linked%20Lists/LC-Odd-Even-Linked-List.cpp) |
-| 159 | LC-Palindrome-Linked-List.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Linked%20Lists/LC-Palindrome-Linked-List.cpp) |
-| 160 | LC-Remove-Nth-Node-From-End-of-List.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Linked%20Lists/LC-Remove-Nth-Node-From-End-of-List.cpp) |
-| 161 | LC-Reverse-Linked-List-Iterative.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Linked%20Lists/LC-Reverse-Linked-List-Iterative.cpp) |
-| 162 | LC-Reverse-Linked-List-Recursive.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Linked%20Lists/LC-Reverse-Linked-List-Recursive.cpp) |
-| 163 | LC-Sort-List-MergeSort.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Linked%20Lists/LC-Sort-List-MergeSort.cpp) |
-| 164 | Lc-Sort-List-Brute-Force.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Linked%20Lists/Lc-Sort-List-Brute-Force.cpp) |
+| 156 | GFG-Find-length-of-Loop.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Linked%20Lists/GFG-Find-length-of-Loop.cpp) |
+| 157 | LC-Delete-the-Middle-Node-of-a-Linked-List.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Linked%20Lists/LC-Delete-the-Middle-Node-of-a-Linked-List.cpp) |
+| 158 | LC-Linked-List-Cycle-II.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Linked%20Lists/LC-Linked-List-Cycle-II.cpp) |
+| 159 | LC-Odd-Even-Linked-List.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Linked%20Lists/LC-Odd-Even-Linked-List.cpp) |
+| 160 | LC-Palindrome-Linked-List.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Linked%20Lists/LC-Palindrome-Linked-List.cpp) |
+| 161 | LC-Remove-Nth-Node-From-End-of-List.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Linked%20Lists/LC-Remove-Nth-Node-From-End-of-List.cpp) |
+| 162 | LC-Reverse-Linked-List-Iterative.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Linked%20Lists/LC-Reverse-Linked-List-Iterative.cpp) |
+| 163 | LC-Reverse-Linked-List-Recursive.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Linked%20Lists/LC-Reverse-Linked-List-Recursive.cpp) |
+| 164 | LC-Sort-List-MergeSort.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Linked%20Lists/LC-Sort-List-MergeSort.cpp) |
+| 165 | Lc-Sort-List-Brute-Force.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Linked%20Lists/Lc-Sort-List-Brute-Force.cpp) |
 ### Miscellaneous
 
 | S.No. | Problems | Solutions |
 | ------- | ------- | -------- |
-| 165 | GFG-Bubble-Sort.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Miscellaneous/GFG-Bubble-Sort.cpp) |
-| 166 | GFG-Insertion-Sort.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Miscellaneous/GFG-Insertion-Sort.cpp) |
-| 167 | GFG-Job-Sequencing-Problem-Greedy.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Miscellaneous/GFG-Job-Sequencing-Problem-Greedy.cpp) |
-| 168 | GFG-MergeSort.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Miscellaneous/GFG-MergeSort.cpp) |
-| 169 | GFG-Power-Set-Backtracking.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Miscellaneous/GFG-Power-Set-Backtracking.cpp) |
-| 170 | GFG-Power-Set-Bit-Manipulation.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Miscellaneous/GFG-Power-Set-Bit-Manipulation.cpp) |
-| 171 | GFG-QuickSort.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Miscellaneous/GFG-QuickSort.cpp) |
-| 172 | GFG-Selection-Sort.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Miscellaneous/GFG-Selection-Sort.cpp) |
-| 173 | LC-Count-Good-Numbers-Power-Logn.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Miscellaneous/LC-Count-Good-Numbers-Power-Logn.cpp) |
-| 174 | LC-Find-Minimum-Cost-to-Remove-Array-Elements.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Miscellaneous/LC-Find-Minimum-Cost-to-Remove-Array-Elements.cpp) |
-| 175 | LC-Find-the-Number-of-Copy-Arrays.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Miscellaneous/LC-Find-the-Number-of-Copy-Arrays.cpp) |
-| 176 | LC-LFU-Cache.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Miscellaneous/LC-LFU-Cache.cpp) |
-| 177 | LC-LRU-Cache.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Miscellaneous/LC-LRU-Cache.cpp) |
-| 178 | LC-Largest-Rectangle-Histogram-1-Pass.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Miscellaneous/LC-Largest-Rectangle-Histogram-1-Pass.cpp) |
-| 179 | LC-Largest-Rectangle-Histogram-2-Pass.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Miscellaneous/LC-Largest-Rectangle-Histogram-2-Pass.cpp) |
-| 180 | LC-Minimum-Time-to-Break-Locks-I-Recursion-Bitmask.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Miscellaneous/LC-Minimum-Time-to-Break-Locks-I-Recursion-Bitmask.cpp) |
-| 181 | LC-Online-Stock-Span-Stack.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Miscellaneous/LC-Online-Stock-Span-Stack.cpp) |
-| 182 | LC-Parsing-A-Boolean-Expression.ts | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Miscellaneous/LC-Parsing-A-Boolean-Expression.ts) |
-| 183 | LC-Transform-Array-by-Parity.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Miscellaneous/LC-Transform-Array-by-Parity.cpp) |
-| 184 | SPOJ-AGGRCOW-Aggressive-cows-binary-search.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Miscellaneous/SPOJ-AGGRCOW-Aggressive-cows-binary-search.cpp) |
+| 166 | GFG-Bubble-Sort.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Miscellaneous/GFG-Bubble-Sort.cpp) |
+| 167 | GFG-Insertion-Sort.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Miscellaneous/GFG-Insertion-Sort.cpp) |
+| 168 | GFG-Job-Sequencing-Problem-Greedy.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Miscellaneous/GFG-Job-Sequencing-Problem-Greedy.cpp) |
+| 169 | GFG-MergeSort.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Miscellaneous/GFG-MergeSort.cpp) |
+| 170 | GFG-Power-Set-Backtracking.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Miscellaneous/GFG-Power-Set-Backtracking.cpp) |
+| 171 | GFG-Power-Set-Bit-Manipulation.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Miscellaneous/GFG-Power-Set-Bit-Manipulation.cpp) |
+| 172 | GFG-QuickSort.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Miscellaneous/GFG-QuickSort.cpp) |
+| 173 | GFG-Selection-Sort.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Miscellaneous/GFG-Selection-Sort.cpp) |
+| 174 | LC-Count-Good-Numbers-Power-Logn.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Miscellaneous/LC-Count-Good-Numbers-Power-Logn.cpp) |
+| 175 | LC-Find-Minimum-Cost-to-Remove-Array-Elements.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Miscellaneous/LC-Find-Minimum-Cost-to-Remove-Array-Elements.cpp) |
+| 176 | LC-Find-the-Number-of-Copy-Arrays.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Miscellaneous/LC-Find-the-Number-of-Copy-Arrays.cpp) |
+| 177 | LC-LFU-Cache.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Miscellaneous/LC-LFU-Cache.cpp) |
+| 178 | LC-LRU-Cache.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Miscellaneous/LC-LRU-Cache.cpp) |
+| 179 | LC-Largest-Rectangle-Histogram-1-Pass.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Miscellaneous/LC-Largest-Rectangle-Histogram-1-Pass.cpp) |
+| 180 | LC-Largest-Rectangle-Histogram-2-Pass.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Miscellaneous/LC-Largest-Rectangle-Histogram-2-Pass.cpp) |
+| 181 | LC-Minimum-Time-to-Break-Locks-I-Recursion-Bitmask.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Miscellaneous/LC-Minimum-Time-to-Break-Locks-I-Recursion-Bitmask.cpp) |
+| 182 | LC-Online-Stock-Span-Stack.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Miscellaneous/LC-Online-Stock-Span-Stack.cpp) |
+| 183 | LC-Parsing-A-Boolean-Expression.ts | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Miscellaneous/LC-Parsing-A-Boolean-Expression.ts) |
+| 184 | LC-Transform-Array-by-Parity.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Miscellaneous/LC-Transform-Array-by-Parity.cpp) |
+| 185 | SPOJ-AGGRCOW-Aggressive-cows-binary-search.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Miscellaneous/SPOJ-AGGRCOW-Aggressive-cows-binary-search.cpp) |
 ### Strings
 
 | S.No. | Problems | Solutions |
 | ------- | ------- | -------- |
-| 185 | InterviewBit-Min-Char-To-Make-String-Palindromic-LPS.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Strings/InterviewBit-Min-Char-To-Make-String-Palindromic-LPS.cpp) |
-| 186 | LC-Generate-Parentheses-Recursion.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Strings/LC-Generate-Parentheses-Recursion.cpp) |
-| 187 | LC-KMP-Algo.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Strings/LC-KMP-Algo.cpp) |
-| 188 | LC-Longest-Palindromic-Substring-Expand-From-Center-Space-Optimised.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Strings/LC-Longest-Palindromic-Substring-Expand-From-Center-Space-Optimised.cpp) |
-| 189 | LC-Longest-Palindromic-Substring-Manachers-Algo.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Strings/LC-Longest-Palindromic-Substring-Manachers-Algo.cpp) |
-| 190 | LC-Minimum-Add-to-Make-Parentheses-Valid.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Strings/LC-Minimum-Add-to-Make-Parentheses-Valid.cpp) |
-| 191 | LC-Rabin-Karp-Algo.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Strings/LC-Rabin-Karp-Algo.cpp) |
-| 192 | LC-Reverse-Words-in-a-String.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Strings/LC-Reverse-Words-in-a-String.cpp) |
-| 193 | LC-Sort-Characters-By-Frequency.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Strings/LC-Sort-Characters-By-Frequency.cpp) |
-| 194 | LC-String-to-Integer-(atoi).cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Strings/LC-String-to-Integer-(atoi).cpp) |
-| 195 | LC-Substrings-with-K-Distinct.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Strings/LC-Substrings-with-K-Distinct.cpp) |
-| 196 | LC-Sum-of-Beauty-of-All-Substrings.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Strings/LC-Sum-of-Beauty-of-All-Substrings.cpp) |
+| 186 | InterviewBit-Min-Char-To-Make-String-Palindromic-LPS.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Strings/InterviewBit-Min-Char-To-Make-String-Palindromic-LPS.cpp) |
+| 187 | LC-Generate-Parentheses-Recursion.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Strings/LC-Generate-Parentheses-Recursion.cpp) |
+| 188 | LC-KMP-Algo.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Strings/LC-KMP-Algo.cpp) |
+| 189 | LC-Longest-Palindromic-Substring-Expand-From-Center-Space-Optimised.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Strings/LC-Longest-Palindromic-Substring-Expand-From-Center-Space-Optimised.cpp) |
+| 190 | LC-Longest-Palindromic-Substring-Manachers-Algo.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Strings/LC-Longest-Palindromic-Substring-Manachers-Algo.cpp) |
+| 191 | LC-Minimum-Add-to-Make-Parentheses-Valid.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Strings/LC-Minimum-Add-to-Make-Parentheses-Valid.cpp) |
+| 192 | LC-Rabin-Karp-Algo.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Strings/LC-Rabin-Karp-Algo.cpp) |
+| 193 | LC-Reverse-Words-in-a-String.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Strings/LC-Reverse-Words-in-a-String.cpp) |
+| 194 | LC-Sort-Characters-By-Frequency.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Strings/LC-Sort-Characters-By-Frequency.cpp) |
+| 195 | LC-String-to-Integer-(atoi).cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Strings/LC-String-to-Integer-(atoi).cpp) |
+| 196 | LC-Substrings-with-K-Distinct.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Strings/LC-Substrings-with-K-Distinct.cpp) |
+| 197 | LC-Sum-of-Beauty-of-All-Substrings.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Strings/LC-Sum-of-Beauty-of-All-Substrings.cpp) |
 ### Trie
 
 | S.No. | Problems | Solutions |
 | ------- | ------- | -------- |
-| 197 | CodingNinjas-Complete-String.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Trie/CodingNinjas-Complete-String.cpp) |
-| 198 | CodingNinjas-Count-Distinct-Substrings.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Trie/CodingNinjas-Count-Distinct-Substrings.cpp) |
-| 199 | CodingNinjas-Implement-Trie-ll.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Trie/CodingNinjas-Implement-Trie-ll.cpp) |
-| 200 | LC-Implement-Trie-Prefix-Tree.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Trie/LC-Implement-Trie-Prefix-Tree.cpp) |
-| 201 | LC-Maximum-XOR-With-an-Element-From-Array.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Trie/LC-Maximum-XOR-With-an-Element-From-Array.cpp) |
-| 202 | LC-Maximum-XOR-of-Two-Numbers-in-an-Array.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Trie/LC-Maximum-XOR-of-Two-Numbers-in-an-Array.cpp) |
+| 198 | CodingNinjas-Complete-String.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Trie/CodingNinjas-Complete-String.cpp) |
+| 199 | CodingNinjas-Count-Distinct-Substrings.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Trie/CodingNinjas-Count-Distinct-Substrings.cpp) |
+| 200 | CodingNinjas-Implement-Trie-ll.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Trie/CodingNinjas-Implement-Trie-ll.cpp) |
+| 201 | LC-Implement-Trie-Prefix-Tree.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Trie/LC-Implement-Trie-Prefix-Tree.cpp) |
+| 202 | LC-Maximum-XOR-With-an-Element-From-Array.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Trie/LC-Maximum-XOR-With-an-Element-From-Array.cpp) |
+| 203 | LC-Maximum-XOR-of-Two-Numbers-in-an-Array.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Trie/LC-Maximum-XOR-of-Two-Numbers-in-an-Array.cpp) |
 ### Two Pointers
 
 | S.No. | Problems | Solutions |
 | ------- | ------- | -------- |
-| 203 | GFG-Fruit-Into-Baskets.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Two%20Pointers/GFG-Fruit-Into-Baskets.cpp) |
-| 204 | LC-Binary-Subarrays-With-Sum.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Two%20Pointers/LC-Binary-Subarrays-With-Sum.cpp) |
-| 205 | LC-Longest-Repeating-Character-Replacement.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Two%20Pointers/LC-Longest-Repeating-Character-Replacement.cpp) |
-| 206 | LC-Longest-Substring-Without-Repeating-Characters.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Two%20Pointers/LC-Longest-Substring-Without-Repeating-Characters.cpp) |
-| 207 | LC-Max-Consecutive-Ones-III.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Two%20Pointers/LC-Max-Consecutive-Ones-III.cpp) |
-| 208 | LC-Maximum-Points-You-Can-Obtain-from-Cards.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Two%20Pointers/LC-Maximum-Points-You-Can-Obtain-from-Cards.cpp) |
-| 209 | LC-Minimum-Window-Substring.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Two%20Pointers/LC-Minimum-Window-Substring.cpp) |
-| 210 | LC-Number-of-Substrings-Containing-All-Three-Characters-Alternate-Approach.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Two%20Pointers/LC-Number-of-Substrings-Containing-All-Three-Characters-Alternate-Approach.cpp) |
-| 211 | LC-Number-of-Substrings-Containing-All-Three-Characters.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Two%20Pointers/LC-Number-of-Substrings-Containing-All-Three-Characters.cpp) |
+| 204 | GFG-Fruit-Into-Baskets.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Two%20Pointers/GFG-Fruit-Into-Baskets.cpp) |
+| 205 | LC-Binary-Subarrays-With-Sum.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Two%20Pointers/LC-Binary-Subarrays-With-Sum.cpp) |
+| 206 | LC-Longest-Repeating-Character-Replacement.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Two%20Pointers/LC-Longest-Repeating-Character-Replacement.cpp) |
+| 207 | LC-Longest-Substring-Without-Repeating-Characters.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Two%20Pointers/LC-Longest-Substring-Without-Repeating-Characters.cpp) |
+| 208 | LC-Max-Consecutive-Ones-III.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Two%20Pointers/LC-Max-Consecutive-Ones-III.cpp) |
+| 209 | LC-Maximum-Points-You-Can-Obtain-from-Cards.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Two%20Pointers/LC-Maximum-Points-You-Can-Obtain-from-Cards.cpp) |
+| 210 | LC-Minimum-Window-Substring.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Two%20Pointers/LC-Minimum-Window-Substring.cpp) |
+| 211 | LC-Number-of-Substrings-Containing-All-Three-Characters-Alternate-Approach.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Two%20Pointers/LC-Number-of-Substrings-Containing-All-Three-Characters-Alternate-Approach.cpp) |
+| 212 | LC-Number-of-Substrings-Containing-All-Three-Characters.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Two%20Pointers/LC-Number-of-Substrings-Containing-All-Three-Characters.cpp) |
 ### stack
 
 | S.No. | Problems | Solutions |
 | ------- | ------- | -------- |
-| 212 | GFG-Reverse-a-Stack.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//stack/GFG-Reverse-a-Stack.cpp) |
-| 213 | LC-Sort-a-stack.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//stack/LC-Sort-a-stack.cpp) |
+| 213 | GFG-Reverse-a-Stack.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//stack/GFG-Reverse-a-Stack.cpp) |
+| 214 | LC-Sort-a-stack.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//stack/LC-Sort-a-stack.cpp) |
 
 ## ⚔️ Unsolved Problems
 1. [CodingNinjas-Max-of-Min-of-Every-Window-Size-Deque-TLE.cpp](https://github.com/RexxRj/Code-Repo/tree/main/Unsolved//CodingNinjas-Max-of-Min-of-Every-Window-Size-Deque-TLE.cpp)
