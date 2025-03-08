@@ -238,7 +238,7 @@ A dedicated repository to track my problem-solving journey across various platfo
 | 183 | LC-Largest-Rectangle-in-Histogram-revision-1-pass.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Miscellaneous/LC-Largest-Rectangle-in-Histogram-revision-1-pass.cpp) |
 | 184 | LC-Minimum-Time-to-Break-Locks-I-Recursion-Bitmask.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Miscellaneous/LC-Minimum-Time-to-Break-Locks-I-Recursion-Bitmask.cpp) |
 | 185 | LC-Online-Stock-Span-Stack.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Miscellaneous/LC-Online-Stock-Span-Stack.cpp) |
-| 186 | LC-Parsing-A-Boolean-Expression.ts | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Miscellaneous/LC-Parsing-A-Boolean-Expression.ts) |
+| 186 | LC-Parsing-A-Boolean-Expression.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Miscellaneous/LC-Parsing-A-Boolean-Expression.cpp) |
 | 187 | LC-Transform-Array-by-Parity.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Miscellaneous/LC-Transform-Array-by-Parity.cpp) |
 | 188 | SPOJ-AGGRCOW-Aggressive-cows-binary-search.cpp | [Solution](https://github.com/RexxRj/Code-Repo/tree/main/Solved//Miscellaneous/SPOJ-AGGRCOW-Aggressive-cows-binary-search.cpp) |
 ### Strings
